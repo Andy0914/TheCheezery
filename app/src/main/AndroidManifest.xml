@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TheCheezery">
         <activity
+            android:name=".ProductsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".ProductosActivity"
+            android:exported="false" />
+        <activity
             android:name=".MenuActivity"
             android:exported="false" />
         <activity
